@@ -79,7 +79,7 @@ public class Main {
                                     userCollection.put(cardName, 1);
                                 }
                                 else {
-                                    userCollection.put(cardName, userCollection.get(cardName) + 1);
+                                 userCollection.put(cardName, userCollection.get(cardName) + 1);
                                 }
                                 System.out.println("Carta agregada éxitosamente");
                             }else {
